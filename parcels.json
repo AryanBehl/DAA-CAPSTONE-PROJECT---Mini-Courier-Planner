@@ -1,0 +1,42 @@
+[
+    {
+        "id": "P1",
+        "destination": "A",
+        "weight": 2,
+        "priority": 3,
+        "deadline": 10,
+        "value": 100
+    },
+    {
+        "id": "P2",
+        "destination": "B",
+        "weight": 4,
+        "priority": 2,
+        "deadline": 12,
+        "value": 200
+    },
+    {
+        "id": "P3",
+        "destination": "C",
+        "weight": 3,
+        "priority": 3,
+        "deadline": 11,
+        "value": 150
+    },
+    {
+        "id": "P4",
+        "destination": "D",
+        "weight": 5,
+        "priority": 1,
+        "deadline": 15,
+        "value": 250
+    },
+    {
+        "id": "P5",
+        "destination": "E",
+        "weight": 1,
+        "priority": 3,
+        "deadline": 9,
+        "value": 80
+    }
+]
